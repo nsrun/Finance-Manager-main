@@ -1,4 +1,4 @@
-
+##
 # Finance Manager
 
 Welcome to the Finance Manager project! This application helps users manage their personal finances efficiently by tracking income, expenses, budgets, and financial goals.
